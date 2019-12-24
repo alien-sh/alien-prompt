@@ -1,0 +1,15 @@
+{
+  "name": "@alien.sh/alien-prompt",
+  "version": "1.0.0",
+  "description": "Alien prompt for Alien Shell",
+  "main": "alien-prompt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
